@@ -38,7 +38,7 @@ To run MongoStreamify on your local machine, follow these steps:
 
 Start MongoDB Se
 
-1. Clone the repository: `git clone https://github.com/EswarDivi/MongoStreamify.git`
+1. Clone the repository: `git clone https://github.com/dabby-dabbs/Streamify-Mongo-App`
 2. Navigate to the project directory: `cd MongoStreamify`
 3. Install the dependencies: `pip install -r requirements.txt`
 4. Start the Authentication server: `uvicorn auth:app --reload --port 8000`
@@ -50,16 +50,11 @@ Start MongoDB Se
 Contributions to MongoStreamify are welcome and encouraged! To contribute, follow these steps:
 
 1. Fork the repository: click the "Fork" button on the repository page
-2. Clone your forked repository: `git clone https://github.com/EswarDivi/MongoStreamify.git`
+2. Clone your forked repository: `git clone https://github.com//MongoStreamify.git`
 3. Create a new branch for your changes: `git checkout -b your-branch-name`
 4. Make your changes and commit them: `git commit -m "your commit message"`
 5. Push your changes to your forked repository: `git push origin your-branch-name`
 6. Create a pull request: go to your forked repository page and click the "New pull request" button
-
-## License
-
-MongoStreamify is released under the [MIT License](https://opensource.org/licenses/MIT). 
-See the LICENSE file for more details.
 
 ## Contact
 
