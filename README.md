@@ -15,12 +15,6 @@ MongoStreamify is a video streaming platform that uses MongoDB as its database a
 - Dockerized deployment: The platform can be easily deployed and scaled using Docker.
 
 
-## Flow Diagram
-
-Here is a flow diagram that shows the high-level architecture of the MongoStreamify platform:
-
-![Alt text](Images/Flow.png)
-
 ### Deployment 
 
 ![Alt text](Images/Deply.png)
